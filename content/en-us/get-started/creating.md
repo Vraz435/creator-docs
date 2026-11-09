@@ -71,7 +71,7 @@ links: [
       },
       {
         title: "Intro to physics",
-        description: "The Roblox engine simulates real-life materials, physics, collisions and more. Join one of our product managers for a overview of how the physics simulation works.",
+        description: "The Roblox engine simulates real-life materials, physics, collisions and more. Join one of our product managers for an overview of how the physics simulation works.",
         video: "https://www.youtube-nocookie.com/embed/9mXvhYSv7fc",
         links: [
           { text: "Watch livestream", href: "https://youtu.be/9mXvhYSv7fc" },
